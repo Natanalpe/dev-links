@@ -9,7 +9,7 @@ export const DevLinksWrapper = styled.div`
      align-items: center;
      padding-top: 50px;
      position: relative;
-     gap: 55px;
+     gap: 40px;
 
      #title {
           color: white;
